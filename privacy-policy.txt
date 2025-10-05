@@ -1,0 +1,28 @@
+Privacy Policy for GunIdle
+
+Last updated: October 5, 2025
+
+We respects your privacy. This Privacy Policy explains how we handle your information when you use our mobile game GunIdle.
+Information We Collect
+
+GunIdle does not collect or store any personal information from users. The game may use third-party services (such as Google Play Games, AdMob, or Analytics) that might collect limited information as described in their own privacy policies.
+Third-Party Services
+
+Our app may include third-party SDKs or services that collect information according to their own policies, including:
+
+    Google Play Services
+    AdMob (for ads)
+    Google Analytics for Firebase (for anonymous usage statistics)
+
+Children’s Privacy
+
+GunIdle is designed for general audiences. We do not knowingly collect any personal data from children under 13.
+Data Security
+
+We do not store or share user data. Third-party services we use follow industry-standard security measures.
+Changes to This Policy
+
+We may update this Privacy Policy from time to time. Any changes will be posted on this page.
+Contact Us
+
+If you have any questions about this Privacy Policy, you can contact us at: v.nersisyan2000@gmail.com
